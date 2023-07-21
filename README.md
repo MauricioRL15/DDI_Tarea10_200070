@@ -8,9 +8,9 @@
 Materia: Desarrollo de Dispositivos Inteligentes. <br>
 Alumno: Mauricio Ramírez López <br>
 Matrícula: 200070 <br>
-Tarea 10: Obtención de latitud y longitud del dispositivo Wear OS. <br>
-Descripción: Se creó una aplicación para Wear OS con la API 30, en donde a través del "GPS" del dispositivo se obtiene la latitud y longitud del mismo, no es posible con este emulador y se obtiene desde el mapa que proporciona el mismo emulador. <br>
-Fecha entrega: 30 de junio del 2023
+Tarea 10: Consumo de una API a través de Retofit. <br>
+Descripción: Se creó una aplicación para Wear OS con la API 30, en donde a través de la API de OpenWeatherMap se obtuvo (con latitud y longitud fija) la temperatura de cierta zona. <br>
+Fecha entrega: 21 de junio del 2023
 </div>
 
 
